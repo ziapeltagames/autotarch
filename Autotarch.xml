@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+<Story>
+<title>Autotarch</title>
+Solo and Cooperative Rules for Wrath of the Autarch
+Concept and Design: Phil Lewis
+Editing: None Yet! Like, seriously, beware.
+Graphic Design: TBD
+Cover Art: TBD
+Interior Art: TBD
+Feedback and Guidance: Jennifer Lewis, Derrick Sanders, Geoff McCool
+<chapter>Overview</chapter>
+<book>Autotarch</book> is a <book>Wrath of the Autarch</book> cooperative rules variant. It is suitable for playing alone or with up to four friends. You will need to own the <book>Wrath of the Autarch</book> game in order to play. You will also need to own the Deck of Fate published by Evil Hat. The moons, suns, and eclipses on the Deck of Fate are heavily leveraged here.
+<book>Autotarch</book> focuses on two things: the strategy of trying to beat the Autarch and the creation of fun narratives. It is even more similar to a legacy boardgame than <book>WotA</book> is, thanks to the cooperative element.
+The strategy portion is already within <book>WotA</book> in the form of building developments, managing threats, and successfully completing missions. In a cooperative version, there won't be an Autarch player to manage the decisions for conflicts, threats, and schemes, so those elements of the game have been changed to remain challenging and interesting. However, much of the strategic portion of <book>WotA</book> is the same.
+<h1>Going it Alone</h1>
+The initial impetus for working on this project was a surprising amount of interest in playing <book>WotA</book> cooperatively or solo. Which, with some hindsight, is understandable. The Autarch player role is so constrained that it initially seems like it wouldn't be too difficult to automate those decisions. However, there are a wealth of tricky interactions and design tradeoffs which must be negotiated to make that happen. The most difficult part to automate were the various tactical conflicts, particularly warfare. There are also a number of subtle tasks that the Autarch player handles, such as creating complications and aspects, as well as invoking aspects, which also require some thought.
+<h2>Design Goals</h2>
+There are of course a wide variety of ways to create a cooperative <book>WotA</book>game. Early on, my goal was to not change the Stronghold player rules. All of the changes are focused on what the Autarch player does. I toyed with more drastic changes, but it quickly became clear that I was making a different game. I also want to leverage as much of the <book>WotA</book> book as possible.
+<h2>Why Solo?</h2>
+Playing solo is a pretty different experience than playing cooperatively. The "play to find out what happens" element still seems pretty important, but it seems like another way to play solo is to treat it as a writing exercise of sorts. Filling in details of scenes as they're revealed. It might be useful to get a swank looking notebook for use as a campaign journal of sorts. If I may propose some notebook porn, the <i>Leuchtturm 1917</i> is pretty great. Get the gridded one and divided up into sections for regions, developments, characters, and seasons. I may try to add in extra suggestions for playing that way, such as structured ways to write out challenge scenes or threats that would be evocative.
+<h1>Playing the Game</h1>
+Unless specified otherwise, use the rules as presented in the main <book>Wrath of the Autarch</book> rulebook. Most of the rules are the same. The biggest changes surround the conflicts, Autarch schemes, and invoking aspects for the Autarch.
+<h2>Golden Rule</h2>
+If there is ever a decision to be made which isn't covered by the rules, the spotlight player makes it.
+<h2>Challenge Phase</h2>
+Play out the challenge phase as normal. The spotlight player handles any aspects which are normally created by the Autarch player. For example, if the current player fails to Create Advantage.
+<h3>Complications</h3>
+If the number of suns are higher than the number of moons on the card used to set up the scene, there is a complication. However! The complication is not accepted or bought off until all available characters have opted in or out of the scene. As normal, the player setting up the scene is the target of the complication.
+<h2>Conflicts</h2>
+Conflicts are the biggest area of change from the core rules. Each conflict type is covered in its own chapter. Conflicts are governed by the same basic concepts, however, when a character normally controlled by the Autarch takes a turn, a Fate card is drawn. The symbols on the card govern <i>what</i> the character is going to do, and the value governs how well. These are called <term>Autarch action cards</term>.
+<h3>Invoking Aspects</h3>
+The other big change involves invoking aspects. If an Autarch action card is drawn with more suns than moons, the opposition will try to invoke an aspect to use with the current action. This always takes the form of adding +2 to the current action. In those cases where the Autarch action doesn't involve calculating a value (for example, a character just moves a zone), then do not invoke an aspect.
+When looking for an aspect to invoke, use the following order: consequences, mission aspects, and finally campaign aspects. If there are multiple applicable aspects of one type available, the spotlight player chooses which to use.
+<h3>Applying Stress</h3>
+Opposition characters which take stress apply the following process. First, as much stress as possible is taken by the appropriate available stress track. As usual in <book>Fate Core</book>, only one stress box may be marked off when taking stress. Lots of people seem to miss that rule! Next, consequences are used to absorb the rest, using as few consequences as possible. For example, if an opponent takes three stress, one moderate consequence is used rather than two minor consequences.
+<h2>Schemes</h2>
+In order to handle the long term strategy for the Autarch player, new <term>Autarch scheme pools</term> are used. Keep track of the values for each pool on the Faction Sheet near the list of available schemes. There is one pool for each scheme track (diplomacy, infiltration, skirmish, and warfare). Initially each pool starts out at one.
+At the end of a mission, when it comes time to determine Autarch schemes, the spotlight player rolls a number of six sided dice equal to each pool value. So, at the end of the first season the spotlight player will roll one die for diplomacy, one die for skirmish, one die for infiltration, and one die for warfare.
+If any of the dice for a particular pool are less than or equal to the current year, there might be a scheme of that type! Recall that there are six schemes of each type, numbered one through six in the book. If a rolled die value matches an available scheme of the appropriate type <strong>and</strong> all of the prerequisite schemes are fulfilled, then the rolled scheme occurs! At most one scheme of each category may occur during a season.
+<h3>Beginning of Year</h3>
+In addition to the usual beginning of year stuff, a scheme pool will be increased by one. In order to decide which pool is increased, roll all of the pool dice. Add up the values for each pool type (diplomacy, infiltration, skirmish, and warfare). The pool that rolls the highest increases by one. If there is a tie, increase the pool with the lowest value. If there's still a tie, the spotlight player decides which pool to increase.
+<h3>Example</h3>
+It is the third year of a campaign. The diplomacy pool is two, the infiltration pool is two, the skirmish pool is one, and the warfare pool is one. The first diplomacy scheme, <i>Building Up Rapport</i>, has already been taken, as well as the first two skirmish schemes, <i>Targeted Weak Point</i> and <i>Mercenary Tactics</i>. The spotlight player rolls two dice for diplomacy, two dice for infiltration, one die for skirmish, and one die for warfare.
+The dice come up as follows.
+Diplomacy: 2,3
+Infiltration: 1,3
+Skirmish: 2
+Warfare: 3
+Ouch. All of the results are less than or equal to the current year of the campaign!
+The second diplomacy scheme, <i>Feeding the Flames of Discontent</i> will occur, since the first scheme has been taken and a two was rolled. The third diplomacy scheme will not happen, even though the second one is now filled in, because at most one scheme of each type may occur during a season. Additionally, the first infiltration scheme will happen this season! Going to have to prioritize.
+The second skirmish scheme has already happened, so there are no skirmish schemes from the two that was rolled. Additionally, no warfare schemes have been taken, so the three in warfare also won't result in any schemes, because the first and second warfare schemes must be filled in.
+<chapter>Diplomacy</chapter>
+When an opposing character takes their action, an Autarch action card is drawn. The symbols on the card are used to determine what action the character will take, while the values are used for results. If eclipses are drawn for an opposing character’s action, there is a diplomatic incident, and a related campaign aspect is created. This is instead of the character's usual turn.
+<h1>Procedure</h1>
+Unless specified otherwise, assume the conflict is unchanged from <book>Wrath of the Autarch</book>. The biggest changes, as described in the <ref>Conflicts</ref> section, determine how opposing characters take actions. Furthermore, there are two new concepts referenced on the action charts.
+<term>Least Defended Issue</term>: The issue that is the easiest for the opposition to add support to. The first choice is an issue which is undefended. Doesn't get much easier than that! Next is the issue which has the lowest Wits skill out of all defenders on each issue. Ties are broken by choosing the issue with the most opposing influence on it.
+<term>Most Vulnerable Issue</term>: This is the issue which is closest to being taken by the heroes. The first choice is the issue which has the most Stronghold support on it. Ties are broken by choosing the issue with the hero with the highest Rapport.
+<h2>Setup</h2>
+Set up the five issues as normal, using either the five broad categories (Wrath, Belief, Rule, Culture, and History) or more focused issues. Characters are placed on issues in reverse order of Society skill, as normal. The leaders in the Adversary section list where they should be placed. Any mention of “least defended” or “most vulnerable” issues in the setup guidance applies at the instant the opposing characters are placed.
+<h3>Opposition</h3>
+The <ref>Adversaries</ref> section has a set of six archetypes to use for diplomacy conflicts. If the conflict is from a threat or scheme, roll a six sided dice to determine which archetype to use. Roll once for each hero in the conflict. If an archetype is already taken, use the first available lower numbered archetype. In other words, if a three is rolled and three is taken, choose two. If both three and two are taken, choose the first archetype. If all the archetypes at or below the rolled value have been taken, simply re-roll.
+1. Controller
+2. Sniper
+3. Defender
+4. Wild
+5. Tank
+6. Enchanter
+Additionally, there are listings for each of the minor factions, neutral regions, and quests which feature diplomacy conflicts. These listings dictate which archetypes to use (sometimes multiples of the same type). Use this list instead of rolling.
+<h2>Eclipses: Campaign Aspects</h2>
+Signifies a diplomatic incident! If a card drawn for an opposing character has an eclipse on it, immediately create a campaign aspect related to the current diplomacy conflict. The campaign aspect has one free invoke. It should reflect a disagreement between the opposition and the Stronghold. This is instead of the character taking their action (the character does not get an action this exchange).
+<h1>Adversaries</h1>
+Following are listings for each faction as well as a general set of archetypes to be used as needed. The archetypes are used by threats as well as to fill out some factions.
+<h2>Archetypes</h2>
+There are six archetypes to use for threats or schemes. Prior to starting the mission, give the characters names and at least a core concept. The sample threats in <book>Wrath of the Autarch</book> and <book>Schemes of the Autarch</book> may be used for inspiration.
+If the threat or scheme relates to a particular faction, use the leaders from the indicated faction. It’s more interesting to feature recurring characters rather than frequently making new ones.
+<stats><name>Controller</name>
+<stress><st>Physical</st>	<fate>3</fate></stress>
+<stress><st>Mental</st>	<fate>3</fate></stress>
+<stress><st>Consequences</st>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<moveh><moon>WWW</moon></moveh>
+<move>Move: Most Vulnerable.
+Action: Gain Support.
+Bonus: Place one support on current issue.</move>
+<moveh><moon>WW</moon></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><moon>W</moon></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><sun>b</sun></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><sun>bb</sun></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><sun>bbb</sun></moveh>
+<move>Highest Society.
+Action: Manipulate Highest Society.
+Bonus: Place one support on current issue.</move>
+<stunt><st>Setup: </st>Least Defended.</stunt>
+<stunt><st>Defense: </st>-1</stunt>
+<stunt><st>Initiative: </st>+0</stunt></stats>
+<stats><name>Sniper</name>
+<stress><st>Physical</st>	<fate>3</fate></stress>
+<stress><st>Mental</st>	<fate>3</fate></stress>
+<stress><st>Consequences</st>	-2 <fate>1</fate></stress>
+<moveh><moon>WWW</moon></moveh>
+<move>Move: Most Vulnerable.
+Action: Manipulate Highest Rapport.</move>
+<moveh><moon>WW</moon></moveh>
+<move>Move: Lowest Wits.
+Action: Manipulate Lowest Wits.</move>
+<moveh><moon>W</moon></moveh>
+<move>Move: Highest Society.
+Action: Manipulate Highest Society.</move>
+<moveh><sun>b</sun></moveh>
+<move>Move: Lowest Wits.
+Action: Manipulate Lowest Wits.</move>
+<moveh><sun>bb</sun></moveh>
+<move>Move: Highest Society.
+Action: Manipulate Highest Society.</move>
+<moveh><sun>bbb</sun></moveh>
+<move>Move: Most Vulnerable.
+Action: Manipulate Highest Rapport.</move>
+<stunt><st>Setup: </st>Most Vulnerable.</stunt>
+<stunt><st>Defense: </st>-1</stunt>
+<stunt><st>Initiative: </st>-1</stunt></stats>
+<stats><name>Defender</name>
+<stress><st>Physical</st>	<fate>4</fate></stress>
+<stress><st>Mental</st>	<fate>4</fate></stress>
+<stress><st>Consequences</st>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<moveh><moon>WWW</moon></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><moon>WW</moon></moveh>
+<move>Move: Most Vulnerable.
+Action: Gain Support.</move>
+<moveh><moon>W</moon></moveh>
+<move>Move: Most Vulnerable.
+Action: Gain Support.</move>
+<moveh><sun>b</sun></moveh>
+<move>Move: Most Vulnerable.
+Action: Gain Support.</move>
+<moveh><sun>bb</sun></moveh>
+<move>Move: Most Vulnerable.
+Action: Gain Support.</move>
+<moveh><sun>bbb</sun></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<stunt><st>Setup: </st>Most Vulnerable.</stunt>
+<stunt><st>Defense: </st>+2</stunt>
+<stunt><st>Initiative:</st>+1</stunt></stats>
+<stats><name>Wild</name>
+<stress><st>Physical</st>	<fate>2</fate></stress>
+<stress><st>Mental</st>	<fate>3</fate></stress>
+<stress><st>Consequences</st>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<moveh><moon>WWW</moon></moveh>
+<move>Move: Most Vulnerable.
+Action: Gain Support.
+Bonus: Place one support on random issue</move>
+<moveh><moon>WW</moon></moveh>
+<move>Move: Least Defended.
+Action: Gain Support</move>
+<moveh><moon>W</moon></moveh>
+<move>Move: Least Defended.
+Action: Gain Support</move>
+<moveh><sun>b</sun></moveh>
+<move>Move: Least Defended.
+Action: Gain Support</move>
+<moveh><sun>bb</sun></moveh>
+<move>Move: Least Defended.
+Action: Gain Support</move>
+<moveh><sun>bbb</sun></moveh>
+<move>Move: Highest Society.
+Action: Manipulate.
+Bonus: Place one support on random issue</move>
+<stunt><st>Setup: </st>Most Vulnerable.</stunt>
+<stunt><st>Defense: </st>+0</stunt>
+<stunt><st>Initiative: </st>+0</stunt></stats>
+<stats><name>Tank</name>
+<stress><st>Physical</st>	<fate>3</fate></stress>
+<stress><st>Mental</st>	<fate>4</fate></stress>
+<stress><st>Consequences</st>	-2 <fate>1</fate>, -2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<moveh><moon>WWW</moon></moveh>
+<move>Move: Most Vulnerable.
+Action: Gain Support.
+Bonus: Place one support on current issue</move>
+<moveh><moon>WW</moon></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><moon>W</moon></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><sun>b</sun></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><sun>bb</sun></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><sun>bbb</sun></moveh>
+<move>Move: Highest Society.
+Action: Manipulate.
+Bonus: Place one support on current issue</move>
+<stunt><st>Setup: </st>Most Vulnerable.</stunt>
+<stunt><st>Defense: </st>+0</stunt>
+<stunt><st>Initiative: </st>-2</stunt></stats>
+<stats><name>Enchanter</name>
+<stress><st>Physical</st>	<fate>2</fate></stress>
+<stress><st>Mental</st>	<fate>3</fate></stress>
+<stress><st>Consequences</st>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<moveh><moon>WWW</moon></moveh>
+<move>Move: Most Vulnerable.
+Action: Gain Support.
+Bonus: Highest Wits gets consequence.</move>
+<moveh><moon>WW</moon></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><moon>W</moon></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><sun>b</sun></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><sun>bb</sun></moveh>
+<move>Move: Least Defended.
+Action: Gain Support.</move>
+<moveh><sun>bbb</sun></moveh>
+<move>Move: Highest Society.
+Action: Manipulate.
+Bonus: Higest Society gets consequence.</move>
+<stunt><st>Setup: </st>Most Vulnerable.</stunt>
+<stunt><st>Defense: </st>-1</stunt>
+<stunt><st>Initiative: </st>-2</stunt></stats>
+<h1>From the Book</h1>
+<h2>Boar’s Hollow</h2>
+Difficulty: 5
+Gerard: Controller
+Hargeth: Defender
+Leo: Sniper
+Gerda: Controller
+Talan: Tank
+<h3>Burgan Vale</h3>
+Difficulty: 4
+<h2>The Empire</h2>
+Difficulty: Varies
+<h2>The Resistance</h2>
+Difficulty: 5
+<h2>Crescent Hold</h2>
+Difficulty: 5
+<h2>Gravewood</h2>
+Difficulty: 5
+<h2>Lily Manor</h2>
+Difficulty: 5
+<h2>Sunriders</h2>
+Difficulty: 5
+<chapter>Infiltration</chapter>
+<h2>Adversaries</h2>
+<chapter>Skirmish</chapter>
+<h1>Procedure</h1>
+Unless specified otherwise, assume the conflict is unchanged from <book>Wrath of the Autarch</book>.
+<h2>Setup</h2>
+Set up the zones according to the zone map provided for each opponent. If there isn't one specifically set aside for the opponent, determine a random zone map. Each zone map specifies where to place heroes, opponents, and obstacles.
+<h3>Opposition</h3>
+The <ref>Adversaries</ref> section has stats for each opponent in <book>Wrath of the Autarch</book>. Additionally, there are a set of archetypes that can be used to randomly generate opponents of specific difficulties.
+<h1>Zone Maps</h1>
+This section will need some serious graphic design work. Distribute multiple adversaries over the listed starting zones as evenly as possible.
+- = empty (don't place a card)
+o = blank card
+x = card with an obstacle
+h = hero starting zone
+a = adversary starting zone
+b = big boss starting zone
+<h2>Map One</h2>
+--xxx----
+----xxxxx
+--xxxxxxx
+ooooxxooo
+<h2>Map Two</h2>
+--xxx----
+----xxxxx
+--xxxxxxx
+ooooxxooo
+<h2>Map Three</h2>
+--xxx----
+----xxxxx
+--xxxxxxx
+ooooxxooo
+<h2>Map Four</h2>
+--xxx----
+----xxxxx
+--xxxxxxx
+ooooxxooo
+<h1>Adversaries</h1>
+Following are listings for each faction as well as a general set of archetypes to be used as needed. The archetypes are used by threats as well as to fill out some factions.
+<stats><name>Werewolf of Hambridge Farms</name>
+<moveh><moon>WWW</moon> Whirlwind Attack</moveh>
+<move>Action: Move 6MP toward zone with most characters AND Fighting +8 (draw 2) vs Athletics or Fighting.
+Special: Attack every character in current zone.</move>
+<moveh><moon>WW</moon> Heightened Senses</moveh>
+<move>Action: Move 5MP toward hero with most physical stress OR Fighting +7 vs Athletics or Fighting.</move>
+<moveh><moon>W</moon> Quick</moveh>
+<move>Action: Move 4MP toward hero with most physical stress OR Fighting +6 vs Athletics or Fighting.</move>
+<moveh><sun>b</sun> Powerful Attack</moveh>
+<move>Action: Move 1MP toward hero with most physical stress AND Fighting +8 vs Athletics or Fighting.</move>
+<moveh><sun>bb</sun> Feral Beast</moveh>
+<move>Action: Move 1MP toward hero with most physical stress AND Fighting +9 vs Athletics or Fighting.</move>
+<moveh><sun>bbb</sun> Vicious Claws</moveh>
+<move>Action: Move 6MP toward hero with most physical stress AND Fighting +10 (draw 2) vs Athletics or Fighting.</move>
+<moveh><eclipse>e</eclipse> Lycanthropy</moveh>
+<move>Special: If heroes have a mission or campaign aspect for wolfsbane, Move 4MP away from all heroes. Otherwise, move 6MP toward hero with most physical stress. Targeted hero gains the Lycanthrope severe consequence.</move></stats>
+<h3>Abandoned Farmhouse</h3>
+ |w| 
+-- --
+c c c
+   
+x x|c
+-- --
+c h c
+
+  c  
+<stats><name>Wild</name>
+<stress><st>Physical</st>	<fate>2</fate></stress>
+<stress><st>Mental</st>	<fate>3</fate></stress>
+<stress><st>Consequences</st>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<moveh><moon>WWW</moon></moveh>
+<move>Move: Most Vulnerable.
+Action: Gain Support.
+Bonus: Place one support on random issue</move>
+<moveh><moon>WW</moon></moveh>
+<move>Move: Least Defended.
+Action: Gain Support</move>
+<moveh><moon>W</moon></moveh>
+<move>Move: Least Defended.
+Action: Gain Support</move>
+<moveh><sun>b</sun></moveh>
+<move>Move: Least Defended.
+Action: Gain Support</move>
+<moveh><sun>bb</sun></moveh>
+<move>Move: Least Defended.
+Action: Gain Support</move>
+<moveh><sun>bbb</sun></moveh>
+<move>Move: Highest Society.
+Action: Manipulate.
+Bonus: Place one support on random issue</move>
+<stunt><st>Setup: </st>Most Vulnerable.</stunt>
+<stunt><st>Defense: </st>+0</stunt>
+<stunt><st>Initiative: </st>+0</stunt></stats>
+<chapter>Warfare</chapter>
+Warfare is a little different from other conflicts
+Units have a natural “order” of attack Cav -> Arch (Mages) -> Inf (Militia)
+Attackers keep piling up until +4 or higher than the defense, then they allocate to the next character.
+Factions don’t have standing armies -> based on # of regions and capital.
+All inf, etc, need to be “sappers” as well if they’re on offense
+Inputs: number of regions / faction / capitol
+How much does the leader matter?
+1st: Choose offense or defense
+2nd: Select leaders
+Choose from leader list, using generic leaders as appropriate.
+3rd: Assign units based on preference
+4th: Setup leaders in appropriate spots
+<h1>Adversaries</h1>
+Some key leaders
+Some generic leaders
+<h2>Archetypes</h2>
+<stats><name>Controller</name>
+<stress><st>Physical</st>	<fate>2</fate></stress>
+<stress><st>Mental</st>	<fate>3</fate></stress>
+<stress><st>Consequences</st>	-2 <fate>1</fate>, -4 <fate>1</fate></stress>
+<moveh><moon>WWW</moon></moveh>
+<move>Move: TBD
+Action: Attack +0.</move>
+<moveh><moon>WW</moon></moveh>
+<move>Move: TBD
+Action: TBD</move>
+<moveh><moon>W</moon></moveh>
+<move>Move: TBD
+Action: TBD</move>
+<moveh><sun>b</sun></moveh>
+<move>Move: TBD
+Action: TBD</move>
+<moveh><sun>bb</sun></moveh>
+<move>Move: TBD
+Action: TBD</move>
+<moveh><sun>bbb</sun></moveh>
+<move>Move: TBD
+Action: TBD</move>
+<stunt><st>Setup: </st>TBD</stunt>
+<stunt><st>Blah: </st>+0</stunt>
+<stunt><st>Command: </st>MD + 0</stunt>
+<stunt><st>Units: </st>Cavalry, Infantry, Militia</stunt></stats>
+Controller (cavalry)
+Sniper (archers)
+Defender (infantry, attacks tough units)
+Wild (infantry, attacks heroes)
+Tank (siege)
+Enchanter (mages)
+<h2>Sunriders</h2>
+Difficulty: Blah
+<h3>Offense Leaders</h3>
+Arban: Special
+Taichu: Controller
+Hogel: Sniper
+Fourth Leader: Controller
+Fifth Leader: Wild
+<h3>Defense Leaders</h3>
+Arban: Special
+Taichu: Controller
+Hogel: Defender
+Controller
+Wild
+<h3>Available Units</h3>
+Regions Controlled: 5
+8 Sunriders
+8 Infantry
+5 Archers
+4 Catapults
+
+Regions Controlled: 4
+
+2 Militia
+
+Regions Controlled: 3
+
+4 Militia
+
+Regions Controlled: 2
+
+6 Miltia
+
+Regions Controlled: 1
+
+8 Militia
+
+Capital Bonus:
++4 Sunriders
++4 Archers
+<chapter>Events</chapter>
+This variant involves a list of events for each year of the campaign. It changes things as the Autarch grows and changes. Resources become scarce or more available, etc.
+<chapter>Exploration</chapter>
+You don’t have access to all the regions at once. You have to find new regions using developments. Additionally, you can have procedural ways to create new regions.
+<chapter>Mission Construction</chapter>
+Specific challenge scenes for specific missions.
+</Story>
+</Root>
